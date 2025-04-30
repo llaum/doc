@@ -5,6 +5,8 @@ h3. Expected value and goal of the card
 
 h3. Todo
 
+h3. Acceptance criteria
+
 h3. External dependencies
 
 h3. CI/CD
@@ -26,13 +28,13 @@ h3. List of people who participated in refining this card
 ```
 h3. Description of the Bug
 
-h4. Expected behavior
-
-Please describe the expected behavior.
-
 h4. Current behavior
 
 Please describe the current behavior and what is wrong.
+
+h4. Expected behavior
+
+Please describe the expected behavior.
 
 h3. How to reproduce
 
