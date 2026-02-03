@@ -3,9 +3,9 @@
 ```
 h3. Expected value and goal of the card
 
-h3. Todo
-
 h3. Acceptance criteria
+
+h3. Todo
 
 h3. External dependencies
 
